@@ -1,5 +1,4 @@
-Code of Conduct
-===============
+# Code of Conduct
 
 - do not share flags with other teams
 - respect other team members
