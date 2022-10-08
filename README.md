@@ -4,7 +4,7 @@
 2. Füll die [joining-template.yaml](./joining-template.yaml) Datei aus.
 3. Sende den Text and
    - [joeb@mail.upb.de](mailto:joeb@mail.upb.de) oder
-   - [jrossel@mail.upb.de](mailto:jrossel@mail.upb.de).
+   - [lhesse2@mail.upb.de](mailto:lhesse2@mail.upb.de).
 
 # Kommunikation
 
