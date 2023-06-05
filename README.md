@@ -4,8 +4,8 @@
 2. Füll die [joining-template.yaml](./joining-template.yaml) Datei aus.
 3. Sende den Text and
    - [joeb@mail.upb.de](mailto:joeb@mail.upb.de) oder
-   - [lhesse2@mail.upb.de](mailto:lhesse2@mail.upb.de).
+   - [davidbm@mail.upb.de](mailto:davidbm@mail.upb.de).
 
 # Kommunikation
 
-Der Hauptteil der Kommunikation läuft über [Discord](https://discord.gg/c8aGjB9), dort gibt es auch unseren [Matrix Channel](https://riot.im/app/#/room/!CsGPlfUbWTfbSyDhxa:matrix.org) als Bridge.
+Der Hauptteil der Kommunikation läuft über [Discord](https://discord.gg/F2FFY9e), dort gibt es auch unseren [Matrix Channel](https://riot.im/app/#/room/!CsGPlfUbWTfbSyDhxa:matrix.org) als Bridge.
