@@ -1,21 +1,7 @@
 legal_name: John Doe
 mail: john.doe@example.com
 joined: 2018-12-13
-gitlab: johndoe
+github: johndoe
 discord: johndoe#1234
 # please read CODE_OF_CONDUCT.md and switch it to true when accepted
 accepted_code_of_conduct: false
-
-# delete fields which you do not want to provide on our website
-# if you want to provide an avatar, please attach one to your
-# membership joining request
-public_profile:
-  nickname: johndoe # required
-  full_name: John Doe
-  links:
-  - Website: https://example.org/
-  - Mail: mailto:john.doe-public-mail@example.org
-  - Twitter: https://twitter.com/john_doe
-  # more links can be provided by using:
-  # - <site name>: <link>
-  # but please limit it to the most relevant
