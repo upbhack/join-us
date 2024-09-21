@@ -2,7 +2,7 @@
 
 1. Lies dir den [CODE OF CONDUCT](./CODE_OF_CONDUCT.md) (und wenn du möchtest [die Satzung](satzung/satzung.pdf)) durch.
 2. Füll die [joining-template.yaml](./joining-template.yaml) Datei aus.
-3. Sende den Text and
+3. Sende den Text an
    - [lhesse2@mail.upb.de](mailto:lhesse2@mail.upb.de) oder
    - [davidbm@mail.upb.de](mailto:davidbm@mail.upb.de).
 
